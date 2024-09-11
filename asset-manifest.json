@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.1f7d4d93.css",
+    "main.js": "/e-commerce/static/js/main.0493eaa4.js",
+    "static/js/453.0297a6b4.chunk.js": "/e-commerce/static/js/453.0297a6b4.chunk.js",
+    "static/media/rotating_lounge_chair.jpg": "/e-commerce/static/media/rotating_lounge_chair.d14ba71c6adc9d1f802c.jpg",
+    "static/media/pead_reading_chair.jpg": "/e-commerce/static/media/pead_reading_chair.d29325197cb63fc958cf.jpg",
+    "static/media/luxury_sofa_chair.jpg": "/e-commerce/static/media/luxury_sofa_chair.a555417921bca3fce4ab.jpg",
+    "static/media/modern_dining_chair.jpg": "/e-commerce/static/media/modern_dining_chair.6815f40b9f8e33c2f5b6.jpg",
+    "static/media/wooden_office_chair.jpg": "/e-commerce/static/media/wooden_office_chair.853dd5df617db8ba48ce.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.1f7d4d93.css.map": "/e-commerce/static/css/main.1f7d4d93.css.map",
+    "main.0493eaa4.js.map": "/e-commerce/static/js/main.0493eaa4.js.map",
+    "453.0297a6b4.chunk.js.map": "/e-commerce/static/js/453.0297a6b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7d4d93.css",
+    "static/js/main.0493eaa4.js"
+  ]
+}
